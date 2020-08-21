@@ -9,8 +9,8 @@ profile: false
 comments: false
 
 header:
-	caption: ""
-	image: ""
+  caption: ""
+  image: ""
 ---
 
 add content here
