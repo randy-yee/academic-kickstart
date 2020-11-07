@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Computational Number Theory
+role: PhD Student in Computational Number Theory
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include algebraic number theory and cryptography.
+bio: Research interests in computational number theory and cryptography.
 
 interests:
 - Algebraic Number Theory
@@ -32,7 +32,7 @@ education:
   - course: MMath in Cryptography
     institution: University of Waterloo
     year: 2016
-  - course: BSc in Pure Mathematics
+  - course: BSc in Pure Mathematics and BSc in Biopsychology
     institution: University of Winnipeg
     year: 2014
 
@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a PhD candidate in the Department of Computer Science at the University of Calgary, under the joint supervision of Dr. Michael Jacobson Jr. and Dr. Ha Tran. My research interests include computational number theory and cryptography, with current focus on algorithms for computing invariants in algebraic number fields such as the class group, regulator and fundamental units. 
