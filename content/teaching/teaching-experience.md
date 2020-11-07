@@ -1,3 +1,4 @@
++++
 widget: experience
 headless: true  # This file represents a page section.
 
@@ -12,6 +13,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
+
 Teaching Experience:
   - title: 'Teaching Assistant: CPSC 418/MATH 318 -- Introduction to Cryptography'
     company: 'University of Calgary'
@@ -28,3 +30,4 @@ Teaching Experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: 'Taught electronic engineering and researched semiconductor physics.'
++++
