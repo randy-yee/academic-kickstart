@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Calgary"
   date_start = "2019-09-01"
-  date_end = "2020-012-31"
+  date_end = "2020-12-31"
   description = """Responsibilities included researching and designing new assignment problems for this introductory course on cryptography. In particular, we designed a series of python programming problems which involved more modern cryptographic practices and aligned with course objectives. These problems successively built upon one another, invoking key concepts from the course, culminating in a pedagogical implementation of the TLS handshake protocol.""" 
 
 +++
