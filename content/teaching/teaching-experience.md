@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Calgary"
   date_start = "2020-01-01"
   date_end = "2020-04-30"
-  description: >-
-        Responsibilities include hosting 2-3 hour long tutorials per week, guest lecturing, and marking assignments. 
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """Responsibilities include hosting 2-3 hour long tutorials per week, guest lecturing, and marking assignments.""" 
 
 
 [[experience]]
