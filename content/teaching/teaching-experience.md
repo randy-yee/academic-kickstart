@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "University of Calgary"
   company_url = ""
   location = "Calgary"
-  date_start = "2020-01-01,2019-01-01"
-  date_end = "2020-04-30,2019-04-30"
+  date_start = "2020-01-01"
+  date_end = "2020-04-30"
   description = """Responsibilities included designing and hosting 2-3 one-hour long tutorials per week, guest lecturing, and marking assignments.""" 
 
 
