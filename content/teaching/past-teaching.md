@@ -1,11 +1,9 @@
 +++
-widget: blank
-headless: true
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
-title: Past Teaching
+title = "Past Teaching"
 +++
-* CPSC 418 -- Introduction to Cryptography (Fall 2019)
+- CPSC 418 -- Introduction to Cryptography (Fall 2019)
