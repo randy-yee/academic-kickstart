@@ -24,8 +24,12 @@
   weight = 40
 
 [[main]]
+  name = "Example"
+  url = "author/example/"
+  weight = 50
+[[main]]
   name = "Teaching"
-  url = "author/teaching/"
+  url = "teaching/"
   weight = 50
   
 [[main]]
