@@ -24,16 +24,18 @@ date_format = "Jan 2006"
   location = "Calgary"
   date_start = "2020-01-01"
   date_end = "2020-04-30"
-  description = """Responsibilities include hosting 2-3 hour long tutorials per week, guest lecturing, and marking assignments.""" 
+  date_start = "2019-01-01"
+  date_end = "2019-04-30"
+  description = """Responsibilities included designing and hosting 2-3 one-hour long tutorials per week, guest lecturing, and marking assignments.""" 
 
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Course Development TA: CPSC 418/MATH 318 -- Introduction to Cryptography"
+  company = "University of Calgary"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Calgary"
+  date_start = "2019-09-01"
+  date_end = "2020-012-31"
+  description = """Responsibilities included researching and designing new assignment problems for this introductory course on cryptography. In particular, we designed a series of python programming problems which involved more modern cryptographic practices and aligned with course objectives. These problems successively built upon one another, invoking key concepts from the course, culminating in a pedagogical implementation of the TLS handshake protocol.""" 
 
 +++
