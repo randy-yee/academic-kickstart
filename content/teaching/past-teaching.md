@@ -21,4 +21,4 @@ University of Waterloo:
 - MATH 135 -- Algebra I for Honours Mathematics (Fall 2014, Winter 2015)
 
 University of Winnipeg:
-MATH 1401 -- Discrete Mathematics (Winter 2014)  
+- MATH 1401 -- Discrete Mathematics (Winter 2014)  
