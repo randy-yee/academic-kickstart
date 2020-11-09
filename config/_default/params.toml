@@ -26,8 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "8"
-font_size_small = "6"
+font_size = "M"
 
 ############################
 ## Basic Info
