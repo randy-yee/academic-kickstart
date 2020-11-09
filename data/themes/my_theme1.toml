@@ -18,5 +18,5 @@ home_section_odd = "hsla(231, 15%, 16%, 1)"
 home_section_even = "hsla(231, 15%, 16%, 1)"
 
 # Font stuff
-font_size = "14"
-font_size_small = "12"
+font_size = "10"
+font_size_small = "8"
