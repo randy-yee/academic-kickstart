@@ -10,6 +10,8 @@ weight = 60  # Order that this section will appear.
 title = "Recent Posts"
 subtitle = ""
 
+font_size = "12"
+font_size_small = "10"
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
