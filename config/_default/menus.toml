@@ -28,10 +28,10 @@
   url = "CPSC-418/"
   weight = 55
 
-#[[main]]
-#  name = "Example"
-#  url = "author/example/"
-#  weight = 60
+[[main]]
+  name = "Interests"
+  url = "author/interests/"
+  weight = 60
 
   
 [[main]]
