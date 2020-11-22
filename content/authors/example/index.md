@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-# Casual Mathematics:
+## Casual Mathematics:
 
 - [Brilliant.org](https://brilliant.org/) is a fun website that provides accessible lessons on many different topics including mathematics and computer science.
 
