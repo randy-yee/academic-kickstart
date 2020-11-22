@@ -24,19 +24,14 @@
   weight = 40
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 50
-
-[[main]]
   name = "CPSC-418"
   url = "CPSC-418/"
   weight = 55
 
-[[main]]
-  name = "Example"
-  url = "author/example/"
-  weight = 60
+#[[main]]
+#  name = "Example"
+#  url = "author/example/"
+#  weight = 60
 
   
 [[main]]
