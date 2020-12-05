@@ -1,5 +1,5 @@
 ---
-title: "Cryptography - First steps"
+title: "Cryptography - An elaborate elevator pitch"
 date: 2020-08-21T15:55:23-06:00
 draft: false
 
@@ -40,7 +40,7 @@ In other words, we need to know what Eve is capable of in order to properly defe
 For now, we'll assume Eve has somehow gotten her hands on the ciphertext $C$ of a message $M$. 
 Perhaps she has just this one, or perhaps she's been eavesdropping for a while and has many others. This is commonly referred to as a _ciphertext only_, a scenario where the adversary is not actively tampering with the system or messages, merely observing.  
 
-In addition to her interaction type, we also need to specify how much computational power she has available to her. This can very quite greatly. Does Eve have a fixed number of computing cores? Is she capable of using quantum computation? The most common assumption is that Eve is capable of perform a polynomial number of operations with respect to the inputs to the encryption function.
+In addition to her interaction type, we also need to specify how much computational power she has available to her. This can very quite greatly. Does Eve have a fixed number of computing cores? Is she capable of using quantum computation? The most common assumption is that Eve is capable of perform a _polynomial number of operations_ with respect to the inputs to the encryption function (in this case the key and the message).
 
 In summary, we need to specify three aspects of our adversary in order to get a concrete definition of securty.
 1) What is the adversary's _goal_? In our case, this was to determine the message $M$.
