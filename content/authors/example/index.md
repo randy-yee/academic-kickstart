@@ -25,12 +25,12 @@ Instead, I can say I like going to punk rock concerts, I'm interested in psychol
 <!--- This is a trial for creating a new page and linking to it via the homepage. The keys are that this page's title determines the url, and it must be changed accordingly in the "config/_default/menu.toml" file. --->
 
 ## Helpful number theory and cryptography resources
-- [AnotherLook.ca](http://anotherlook.ca/) Well-known series of papers for critiquing security claims.
-- [ePrint](https://eprint.iacr.org/) The place to be for the latest developments in cryptography.
-- [Expanding the Margin](https://expandingthemargin.wordpress.com/) A pretty neat blog for number theory.
-- [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/) a.k.a. my saving grace during grad school.
-- [Number Theory Web](http://www.numbertheory.org/ntw/) Lots of number theory resources.
-- [Recent ArXiv submissions in number theory](https://arxiv.org/list/math.NT/recent) NT preprints.
+- [AnotherLook.ca](http://anotherlook.ca/) -- A well-known series of papers for critiquing security claims.
+- [ePrint](https://eprint.iacr.org/) -- The place to be for the latest developments in cryptography.
+- [Expanding the Margin](https://expandingthemargin.wordpress.com/) -- A pretty neat blog for number theory.
+- [Keith Conrad's Expository Papers](https://kconrad.math.uconn.edu/blurbs/) -- a.k.a. my saving grace during grad school.
+- [Number Theory Web](http://www.numbertheory.org/ntw/) -- Lots of number theory resources.
+- [Recent ArXiv submissions in number theory](https://arxiv.org/list/math.NT/recent) -- NT preprints.
 
 ## Articles I think are worth reading
 - [Grace in teaching](http://mathyawp.blogspot.com/2013/01/the-lesson-of-grace-in-teaching.html)
