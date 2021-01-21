@@ -17,18 +17,17 @@ December 4, 2020
 
 "Cryptography is the science of sending secret messages." 
 
-This a very incomplete and narrow definition, yet in every day life I find myself saying this phrase very often to people I meet. 
-I assume that most people don't want to listen to me explain things like digital signatures or message authentication codes, and they certainly don't want to hear me talk about math. My intention with this post is to provide a simple and understandable description of security as it applies to the sending of secret messages.
+Is a phrase I find myself saying very often to people I meet. Even though it's admittedly incomplete and superficial, I assume that most people don't want to listen to me explain things like digital signatures or message authentication codes, and they certainly don't want to hear me talk about math. My intention with this post is to provide a simple and understandable description of security as it applies to the sending of secret messages.
 
 In the language of cryptography, the process of making something secret is called _encryption_. 
-We start with a message or _plaintext_, which we'll denote by $M$, which we want to send to someone else. 
+We start with a message or _plaintext_, which we'll denote by $M$, that we want to send to someone else. 
 The value $M$ is encrypted via an _encryption function_, and the result is a _ciphertext_, usually denoted by $C$. 
-The encryption function usually depends on using some sort of secret value, typically referred to as a _key_ and denoted with $K$. 
-A recipient of $C$ should be able to recover $M$ using an opposing function called a _decryption function_, only if they know what the key is. 
+The encryption function is dependent on using some sort of secret value referred to as a _key_ and denoted with $K$. 
+The desired result is that a recipient of $C$ should be able to recover $M$ using an opposing function called a _decryption function_, only if they know what the key is. 
 
 Now you may wonder, what exactly does $C$ look like? Or perhaps more precisely, what kinds of properties should it satisfy? 
 This turns out to be a very nuanced question, and we're going to introduce each of the considerations one needs to answer it. 
-At a glance, we obviously want our message to be secret, but what does that mean? Well, at the most basic level, we can say that if someone obtains $C$, 
+At a glance, we obviously want our message to be secret, but what does that mean? At the most basic level, we can say that if someone obtains $C$, 
 they should not be able to determine the message M that it is hiding. 
 However this begs another question, who exactly is the someone that we are trying to make our message secret to? 
 
